@@ -1,11 +1,9 @@
 # falling sand game
 
 маленкая игра песочница на c++ и raylib
-тут песок вода огонь кислота и тд
+песок вода огонь кислота играть платно
 
 ## build
-
-запускал так в powershell
 
 ```powershell
 cmake -S . -B build
