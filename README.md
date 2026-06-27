@@ -11,8 +11,6 @@ cmake --build build --config Release
 .\build\Release\falling_sand.exe
 ```
 
-если не собралось иногда помагает еще раз прогнать cmake
-
 ## controls
 
 - left mouse paint
